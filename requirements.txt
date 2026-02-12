@@ -1,0 +1,8 @@
+pydub>=0.25.1
+cryptography>=3.4.8
+scapy>=2.4.5
+pycryptodome>=3.14.1
+ffmpeg-python>=0.2.1
+tkinter>=0.0.1
+numpy>=1.21.0
+scipy>=1.7.0
